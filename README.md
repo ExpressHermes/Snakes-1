@@ -25,7 +25,7 @@ To compile the program use
 ```
 cd {snakes.cpp path}
 g++ snakes.cpp -o output `pkg-config --cflags --libs opencv`
-
+```
 ### Execution
 To execute the compiled file type following code after compilation 
 ```
